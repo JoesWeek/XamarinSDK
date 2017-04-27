@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMeng.Android.Analytics", "UMeng.Android.Analytics\UMeng.Android.Analytics.csproj", "{1F24C691-BCE4-4BD9-AC9D-D9600BF1E7E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XunFei.Android.AutoUpdate", "XunFei.Android.AutoUpdate\XunFei.Android.AutoUpdate.csproj", "{A1374ADD-7359-4D03-AA51-6F254657CD3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMeng.Android.Shares", "UMeng.Android.Shares\UMeng.Android.Shares.csproj", "{894C1DF6-FDC4-4420-9749-8369E4100299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F24C691-BCE4-4BD9-AC9D-D9600BF1E7E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F24C691-BCE4-4BD9-AC9D-D9600BF1E7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F24C691-BCE4-4BD9-AC9D-D9600BF1E7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F24C691-BCE4-4BD9-AC9D-D9600BF1E7E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1374ADD-7359-4D03-AA51-6F254657CD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1374ADD-7359-4D03-AA51-6F254657CD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1374ADD-7359-4D03-AA51-6F254657CD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1374ADD-7359-4D03-AA51-6F254657CD3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894C1DF6-FDC4-4420-9749-8369E4100299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894C1DF6-FDC4-4420-9749-8369E4100299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894C1DF6-FDC4-4420-9749-8369E4100299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894C1DF6-FDC4-4420-9749-8369E4100299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

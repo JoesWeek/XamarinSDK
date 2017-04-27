@@ -1,0 +1,19 @@
+﻿<metadata>
+  <attr path="/api/package[@name='com.umeng.socialize']/class[@name='UMShareAPI.InitThread']/method[@name='doInBackground' and count(parameter)=0]"  name="name">DoInBackgrounds</attr>
+  <attr path="/api/package[@name='com.umeng.socialize.utils']/class[@name='Log']/field[@name='LOG']" name="name">Logs</attr>
+  <attr path="/api/package[@name='com.umeng.social.tool']/class[@name='UMImageMark']" name="extends">Java.Lang.Object</attr>
+
+  <attr path="/api/package[@name='com.umeng.socialize']/interface[@name='UMAuthListener']/method[@name='onCancel']" name="managedName">
+    OnAuthCancel
+  </attr>
+  <attr path="/api/package[@name='com.umeng.socialize']/interface[@name='UMAuthListener']/method[@name='onComplete']" name="managedName">
+    OnAuthComplete
+  </attr>
+  <attr path="/api/package[@name='com.umeng.socialize']/interface[@name='UMAuthListener']/method[@name='onError']" name="managedName">
+    OnAuthError
+  </attr>
+  <attr path="/api/package[@name='com.umeng.socialize']/interface[@name='UMAuthListener']/method[@name='onStart']" name="managedName">
+    OnAuthStart
+  </attr>
+  <attr path="/api/package[@name='com.umeng.socialize.sina.params']/class[@name='BrowserRequestParamBase']/method[@name='onCreateRequestParamBundle' and count(parameter)=1 and parameter[1][@type='android.os.Bundle']]" name="visibility">public</attr>
+</metadata>
